@@ -1,0 +1,1 @@
+java -jar smolka-bancomat-test-task-1.0-SNAPSHOT.jar
